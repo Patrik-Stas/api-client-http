@@ -1,0 +1,16 @@
+{
+  "name": "api-client-http",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "standard",
+    "lint:fix": "standard --fix"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "uuid": "^8.2.0"
+  },
+  "devDependencies": {
+    "standard": "^15.0.1"
+  }
+}
